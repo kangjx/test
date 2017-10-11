@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  这是一个测试idea与Git的工程！如果给您造成困扰，请见谅！
+    这是一个测试idea与Git的工程！如果给您造成困扰，请见谅！
   </body>
 </html>
